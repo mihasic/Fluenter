@@ -1,0 +1,24 @@
+﻿<?xml
+  version="1.0"
+  encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Fluenter</id>
+    <version>1.0.0</version>
+    <authors>mihasic</authors>
+    <owners>Fluenter Contributors</owners>
+    <licenseUrl>https://github.com/mihasic/Fluenter/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/mihasic/Fluenter</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <developmentDependency>true</developmentDependency>
+    <description>
+      Simple package to support the wrap of method calls in a chain without using lambdas or writing extra code.
+    </description>
+    <summary>Dependency free package to be used in projects of .net 4+</summary>
+    <copyright>mihasic 2014</copyright>
+    <tags>specs, test, fluent, dynamic</tags>
+  </metadata>
+  <files>
+    <file src="Fluenter.cs.pp" target="content\net40\App_Packages\Fluenter\Fluenter.cs.pp" />
+  </files>
+</package>
