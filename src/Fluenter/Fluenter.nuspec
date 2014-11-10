@@ -19,6 +19,6 @@
     <tags>specs, test, fluent, dynamic</tags>
   </metadata>
   <files>
-    <file src="Fluenter.cs.pp" target="content\net40\App_Packages\Fluenter\Fluenter.cs.pp" />
+    <file src="Fluenter.cs.pp" target="content\App_Packages\Fluenter\Fluenter.cs.pp" />
   </files>
 </package>
